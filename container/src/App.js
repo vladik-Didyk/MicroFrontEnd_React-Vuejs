@@ -1,6 +1,5 @@
-import React from "react";
-import { mount } from "marketing/MarketingApp";
-
+import React from 'react';
+import { mount } from 'marketing/MarketingApp';
 
 console.log(mount);
 
